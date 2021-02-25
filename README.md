@@ -3,7 +3,7 @@
 A GitHub repository for us to use to practice branching and merging. Developed for use in the UBC DSCI 524 - Collaborative Software Development course.
 
 ## Usage:
-
+a wrong change
 For example, to calculate the square root of 25:
 ```
 python sqrt.py --n=25
